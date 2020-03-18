@@ -13,7 +13,7 @@ def return_sample_page():
                   </head>
                   <body>
                     <h1>Жди нас, Марс!</h1>
-                    <img src="img/MARS.jpg">
+                    <img src="/static/img/MARS.jpg">
                   </body>
                 </html>"""
 
